@@ -41,7 +41,8 @@ class Solution:
 {% endhighlight %}
 
 # Algorithm Analysis
-O(n)
+O(n) time
+O(n) space
 
 # Best Solution
 {% highlight ruby %}

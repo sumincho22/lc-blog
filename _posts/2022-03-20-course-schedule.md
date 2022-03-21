@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Longest Palindromic Substring"
+title:  "Course Schedule"
 date:   2022-03-20 22:45:00 +0000
-categories: medium string
+categories: medium graph
 ---
 # Description
 1. Make a graph out of the prerequisites list and use DFS to detect any cycles -> return False

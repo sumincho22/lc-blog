@@ -5,6 +5,6 @@ permalink: /about/
 ---
 My goal is to solve 200+ questions on LeetCode by August 2022.
 
-Current: 30 solved (4/3/2022)
+Current: 34 solved (4/3/2022)
 
 Started March 17, 2022.

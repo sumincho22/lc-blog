@@ -5,7 +5,8 @@ date:   2022-04-02 23:30:00 +0000
 categories: medium dynammic programming
 ---
 # Description
-- 
+- Use DFS to check both choices: to use the current candidate or not use and go on to the next candidate
+- By doing so, you get all the combinations without repetitions
 
 # Code
 {% highlight ruby %}
